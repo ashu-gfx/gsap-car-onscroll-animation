@@ -1,0 +1,112 @@
+order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: flex; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 1265px; height: 1703px; padding: 0px 0px 1000px;order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: flex; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 1265px; height: 1703px; padding: 0px 0px 1000px;
+
+<body __processed_db0bccfd-b73b-4049-b6ba-6032555dce7c__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZGlzYWJsZWQiLCJDT05GSUciOiJkaXNhYmxlZCJ9LCJ2ZXJzaW9uIjoiMi4wLjI2Iiwic2NvcmUiOjIwMDI2fV0=">
+    <div class="gsap-marker-end" style="border-color: red; font-size: 16px; color: red; font-weight: normal; pointer-events: none; white-space: nowrap; font-family: sans-serif, Arial; z-index: 1000; padding: 4px 8px; border-width: 1px 0px 0px; border-style: solid; position: absolute; translate: none; rotate: none; scale: none; top: 2257px; transform: translate(0px, 0px); display: block; left: 1117.67px;" bis_skin_checked="1">end</div><div class="gsap-marker-start" style="border-color: green; font-size: 16px; color: green; font-weight: normal; pointer-events: none; white-space: nowrap; font-family: sans-serif, Arial; z-index: 1000; padding: 4px 8px; border-width: 0px 0px 1px; border-style: solid; position: absolute; translate: none; rotate: none; scale: none; top: 1857px; transform: translate(0%, -100%) translate(0px, 1px); display: block; left: 1113.66px;" bis_skin_checked="1">start</div><div class="gsap-marker-scroller-end" style="border-color: red; font-size: 16px; color: red; font-weight: normal; pointer-events: none; white-space: nowrap; font-family: sans-serif, Arial; z-index: 1000; padding: 4px 8px; border-width: 1px 0px 0px; border-style: solid; position: fixed; right: 0px; box-sizing: border-box; text-align: left; width: 104px; translate: none; rotate: none; scale: none; top: 0px; transform: translate(0px, 0px); display: block;" bis_skin_checked="1">scroller-end</div><div class="gsap-marker-scroller-start" style="border-color: green; font-size: 16px; color: green; font-weight: normal; pointer-events: none; white-space: nowrap; font-family: sans-serif, Arial; z-index: 1000; padding: 4px 8px; border-width: 1px 0px 0px; border-style: solid; position: fixed; right: 0px; translate: none; rotate: none; scale: none; top: 0px; transform: translate(0px, 0px); display: block;" bis_skin_checked="1">scroller-start</div><div class="page4" bis_skin_checked="1">
+      <!-- <div class="box"></div> -->
+    </div>
+    <div class="pin-spacer" style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: flex; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 1265px; height: 1703px; padding: 0px 0px 1000px;" bis_skin_checked="1"><div class="section1" style="translate: none; rotate: none; scale: none; left: 0px; top: 0.333374px; margin: 0px; max-width: 1265px; width: 1265px; max-height: 704px; height: 704px; padding: 0px; box-sizing: border-box; position: fixed; transform: translate(0px, 0px);" bis_skin_checked="1">
+      <h1 style="translate: none; rotate: none; scale: none; transform: translate3d(0px, -188.986%, 0px);">
+        Evolving the drive with 360-degree <br>
+        comprehensive solutions
+      </h1>
+      <!-- <div class="heading">
+        <h1>
+          Evolving the drive with 360-degree <br />
+          comprehensive solutions
+        </h1>
+      </div> -->
+
+      <div class="container" bis_skin_checked="1">
+      <div class="page5" bis_skin_checked="1">
+        <div class="content" bis_skin_checked="1" style="translate: none; rotate: none; scale: none; transform: translate3d(0px, 45.03px, 0px); opacity: 0.8999;">
+          <div class="left" bis_skin_checked="1">
+            <div class="part1" bis_skin_checked="1">
+              <div class="slider" bis_skin_checked="1"></div>
+            </div>
+            <div class="part2" bis_skin_checked="1">
+              <div class="left1" bis_skin_checked="1">
+                <h5 class="pass" id="head1">Passenger vehicles</h5>
+                <p class="p1" id="head1">
+                  Revving up innovation from <br>interior to exterior.
+                </p>
+              </div>
+              <div class="left2" bis_skin_checked="1">
+                <h5 class="pass" id="head2">Commercial vehicles</h5>
+                <p class="p1" id="head2">
+                  Advancing engineering <br>
+                  for heavy-duty vehicles.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="right" bis_skin_checked="1">
+            <div class="vid1" bis_skin_checked="1" style="width: 512px; height: 256px;">
+              <video autoplay="" muted="" loop="">
+                <source src="car.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+            <div class="vid2" bis_skin_checked="1" style="translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, 169.82%);">
+              <video autoplay="" muted="" loop="">
+                <source src="truck.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div></div>
+
+    <div class="page6" bis_skin_checked="1">
+      <!-- <div class="box"></div> -->
+    </div>
+    <div class="page7" bis_skin_checked="1">
+      <!-- <div class="box"></div> -->
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js" integrity="sha512-NcZdtrT77bJr4STcmsGAESr06BYGE8woZdSdEgqnpyqac7sugNO+Tr4bGwGF3MsnEkGKhU2KL2xh6Ec+BqsaHA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/ScrollTrigger.min.js" integrity="sha512-P2IDYZfqSwjcSjX0BKeNhwRUH8zRPGlgcWl5n6gBLzdi4Y5/0O4zaXrtO4K9TZK6Hn1BenYpKowuCavNandERg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollToPlugin.min.js"></script>
+
+    <script src="script.js"></script>
+  <!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+
+<div id="give-freely-root-ejkiikneibegknkgimmihdpcbcedgmpo" class="give-freely-root" data-extension-id="ejkiikneibegknkgimmihdpcbcedgmpo" data-extension-name="Volume Booster" style="display: block;" bis_skin_checked="1"></div></body>
